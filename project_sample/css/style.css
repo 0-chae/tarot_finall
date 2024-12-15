@@ -1,0 +1,1432 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itim&family=Noto+Sans+KR:wght@100..900&display=swap");
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 12399px;
+}
+
+.frame .overlap {
+  position: relative;
+  width: 2824px;
+  height: 12519px;
+  left: -727px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 12399px;
+  top: 0;
+  left: 727px;
+  background-color: #ffffff;
+}
+
+.frame .div {
+  position: absolute;
+  width: 1920px;
+  height: 304px;
+  top: 12215px;
+  left: 727px;
+  background-color: #ffd6ea;
+}
+
+.frame .element {
+  position: absolute;
+  width: 523px;
+  height: 201px;
+  top: 10681px;
+  left: 1507px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  width: 519px;
+  height: 201px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 518px;
+  top: 28px;
+  left: 1px;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 265px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #71529a;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .element-2 {
+  position: absolute;
+  width: 544px;
+  height: 247px;
+  top: 10990px;
+  left: 1302px;
+}
+
+.frame .p {
+  position: absolute;
+  width: 539px;
+  top: 53px;
+  left: 1px;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  width: 265px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #71529a;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .overlap-group-wrapper {
+  position: absolute;
+  width: 523px;
+  height: 266px;
+  top: 11346px;
+  left: 1217px;
+}
+
+.frame .overlap-2 {
+  position: relative;
+  width: 519px;
+  height: 266px;
+}
+
+.frame .element-arthur-edward {
+  position: absolute;
+  width: 518px;
+  top: 22px;
+  left: 1px;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  width: 279px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #71529a;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .view {
+  position: absolute;
+  width: 523px;
+  height: 201px;
+  top: 11721px;
+  left: 1482px;
+}
+
+.frame .img {
+  position: absolute;
+  width: 576px;
+  height: 576px;
+  top: 9993px;
+  left: 2001px;
+  object-fit: cover;
+}
+
+.frame .element-3 {
+  position: absolute;
+  width: 846px;
+  height: 680px;
+  top: 10068px;
+  left: 1054px;
+  object-fit: cover;
+}
+
+.frame .element-4 {
+  position: absolute;
+  width: 1261px;
+  height: 1116px;
+  top: 10782px;
+  left: 1897px;
+  object-fit: cover;
+  rotate: 249deg;
+}
+
+.frame .element-5 {
+  position: absolute;
+  width: 1026px;
+  height: 945px;
+  top: 9572px;
+  left: 31px;
+  object-fit: cover;
+  rotate: 50deg;
+}
+
+.frame .element-6 {
+  position: absolute;
+  width: 444px;
+  height: 444px;
+  top: 3175px;
+  left: 2137px;
+  object-fit: cover;
+}
+
+.frame .element-7 {
+  position: absolute;
+  width: 666px;
+  height: 651px;
+  top: 5184px;
+  left: 756px;
+  object-fit: cover;
+  rotate: 17deg;
+}
+
+.frame .element-8 {
+  position: absolute;
+  width: 475px;
+  height: 475px;
+  top: 3558px;
+  left: 741px;
+  object-fit: cover;
+}
+
+.frame .element-9 {
+  position: absolute;
+  width: 584px;
+  height: 444px;
+  top: 2433px;
+  left: 659px;
+  object-fit: cover;
+}
+
+.frame .element-10 {
+  position: absolute;
+  width: 611px;
+  height: 499px;
+  top: 2125px;
+  left: 2129px;
+  object-fit: cover;
+}
+
+.frame .element-11 {
+  position: absolute;
+  width: 1919px;
+  height: 2861px;
+  top: 6324px;
+  left: 728px;
+  object-fit: cover;
+}
+
+.frame .ellipse {
+  position: absolute;
+  width: 171px;
+  height: 171px;
+  top: 7195px;
+  left: 2213px;
+  background-color: #ffffff80;
+  border-radius: 85.5px;
+}
+
+.frame .ellipse-2 {
+  position: absolute;
+  width: 171px;
+  height: 171px;
+  top: 8323px;
+  left: 2042px;
+  background-color: #ffffff80;
+  border-radius: 85.5px;
+}
+
+.frame .ellipse-3 {
+  position: absolute;
+  width: 171px;
+  height: 171px;
+  top: 7049px;
+  left: 662px;
+  background-color: #ffffff80;
+  border-radius: 85.5px;
+}
+
+.frame .ellipse-4 {
+  position: absolute;
+  width: 171px;
+  height: 171px;
+  top: 8047px;
+  left: 1051px;
+  background-color: #ffffff80;
+  border-radius: 85.5px;
+}
+
+.frame .ellipse-5 {
+  position: absolute;
+  width: 106px;
+  height: 106px;
+  top: 8027px;
+  left: 1014px;
+  background-color: #ffffff80;
+  border-radius: 53px;
+}
+
+.frame .ellipse-6 {
+  position: absolute;
+  width: 287px;
+  height: 287px;
+  top: 6933px;
+  left: 1342px;
+  background-color: #ffffff80;
+  border-radius: 143.5px;
+}
+
+.frame .ellipse-7 {
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  top: 7158px;
+  left: 2306px;
+  background-color: #ffffff80;
+  border-radius: 61.5px;
+}
+
+.frame .ellipse-8 {
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  top: 7133px;
+  left: 1475px;
+  background-color: #ffffff80;
+  border-radius: 61.5px;
+}
+
+.frame .ellipse-9 {
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  top: 7366px;
+  left: 2538px;
+  background-color: #ffffff80;
+  border-radius: 61.5px;
+}
+
+.frame .ellipse-10 {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 7281px;
+  left: 2415px;
+  background-color: #ffffff80;
+  border-radius: 29px;
+}
+
+.frame .ellipse-11 {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 8294px;
+  left: 2139px;
+  background-color: #ffffff80;
+  border-radius: 29px;
+}
+
+.frame .ellipse-12 {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 8189px;
+  left: 2444px;
+  background-color: #ffffff80;
+  border-radius: 29px;
+}
+
+.frame .ellipse-13 {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 7901px;
+  left: 867px;
+  background-color: #ffffff80;
+  border-radius: 29px;
+}
+
+.frame .div-wrapper {
+  position: absolute;
+  width: 525px;
+  height: 201px;
+  top: 9202px;
+  left: 1687px;
+}
+
+.frame .overlap-3 {
+  position: relative;
+  width: 521px;
+  height: 201px;
+}
+
+.frame .text-wrapper-5 {
+  width: 518px;
+  top: 19px;
+  left: 3px;
+  font-size: 16px;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  width: 160px;
+  top: 0;
+  left: 0;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .view-2 {
+  position: absolute;
+  width: 525px;
+  height: 235px;
+  top: 9421px;
+  left: 1687px;
+}
+
+.frame .text-wrapper-7 {
+  width: 518px;
+  top: 53px;
+  left: 3px;
+  font-size: 16px;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.frame .view-3 {
+  position: absolute;
+  width: 525px;
+  height: 199px;
+  top: 9636px;
+  left: 1687px;
+}
+
+.frame .overlap-4 {
+  position: relative;
+  width: 521px;
+  height: 199px;
+}
+
+.frame .temperance {
+  position: absolute;
+  width: 518px;
+  top: 17px;
+  left: 3px;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.frame .view-4 {
+  position: absolute;
+  width: 2824px;
+  height: 1480px;
+  top: 8589px;
+  left: 0;
+}
+
+.frame .overlap-5 {
+  position: relative;
+  width: 1920px;
+  height: 1480px;
+  left: 727px;
+}
+
+.frame .element-12 {
+  position: absolute;
+  width: 444px;
+  height: 746px;
+  top: 616px;
+  left: 411px;
+  object-fit: cover;
+}
+
+.frame .element-13 {
+  position: absolute;
+  width: 977px;
+  height: 994px;
+  top: 486px;
+  left: 211px;
+  object-fit: cover;
+}
+
+.frame .element-14 {
+  width: 100px;
+  height: 1000px;
+  top: 73px;
+  left: -61px;
+  position: absolute;
+  object-fit: cover;
+  rotate: 90deg;
+}
+
+.frame .element-15 {
+  width: 100px;
+  height: 1230px;
+  top: 733px;
+  left: 1392px;
+  position: absolute;
+  object-fit: cover;
+  rotate: -90deg;
+}
+
+.frame .element-16 {
+  position: absolute;
+  width: 846px;
+  height: 680px;
+  top: 0;
+  left: 540px;
+  object-fit: cover;
+}
+
+.frame .view-5 {
+  position: absolute;
+  width: 1337px;
+  height: 645px;
+  top: 7351px;
+  left: 1031px;
+}
+
+.frame .overlap-6 {
+  position: relative;
+  height: 645px;
+}
+
+.frame .group {
+  position: absolute;
+  width: 1337px;
+  height: 634px;
+  top: 0;
+  left: 0;
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  height: 634px;
+}
+
+.frame .element-17 {
+  position: absolute;
+  width: 386px;
+  height: 621px;
+  top: 6px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .element-18 {
+  position: absolute;
+  width: 395px;
+  height: 634px;
+  top: 0;
+  left: 311px;
+  object-fit: cover;
+}
+
+.frame .element-19 {
+  position: absolute;
+  width: 339px;
+  height: 544px;
+  top: 6px;
+  left: 698px;
+  object-fit: cover;
+}
+
+.frame .element-20 {
+  position: absolute;
+  width: 334px;
+  height: 535px;
+  top: 15px;
+  left: 1004px;
+  object-fit: cover;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 248px;
+  height: 82px;
+  top: 559px;
+  left: 425px;
+}
+
+.frame .overlap-7 {
+  position: relative;
+  width: 244px;
+  height: 81px;
+  left: -1px;
+}
+
+.frame .text-wrapper-8 {
+  width: 244px;
+  top: 44px;
+  left: 0;
+  -webkit-text-stroke: 0.5px #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  width: 154px;
+  top: 0;
+  left: 48px;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .group-3 {
+  position: absolute;
+  width: 304px;
+  height: 78px;
+  top: 559px;
+  left: 41px;
+}
+
+.frame .text-wrapper-10 {
+  width: 300px;
+  top: 44px;
+  left: -1px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  width: 204px;
+  top: 0;
+  left: 48px;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .group-4 {
+  position: absolute;
+  width: 244px;
+  height: 86px;
+  top: 559px;
+  left: 758px;
+}
+
+.frame .text-wrapper-12 {
+  width: 240px;
+  top: 44px;
+  left: -1px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-size: 18px;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .text-wrapper-13 {
+  position: absolute;
+  width: 96px;
+  top: 0;
+  left: 57px;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .group-5 {
+  position: absolute;
+  width: 209px;
+  height: 75px;
+  top: 559px;
+  left: 1063px;
+}
+
+.frame .text-wrapper-14 {
+  width: 205px;
+  top: 44px;
+  left: -1px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .text-wrapper-15 {
+  position: absolute;
+  width: 151px;
+  top: 0;
+  left: 30px;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .element-21 {
+  position: absolute;
+  width: 255px;
+  height: 485px;
+  top: 6381px;
+  left: 1705px;
+  object-fit: cover;
+  rotate: 3deg;
+}
+
+.frame .element-22 {
+  position: absolute;
+  width: 252px;
+  height: 484px;
+  top: 6422px;
+  left: 1076px;
+  object-fit: cover;
+  rotate: -10deg;
+}
+
+.frame .element-23 {
+  position: absolute;
+  width: 252px;
+  height: 485px;
+  top: 6381px;
+  left: 1395px;
+  object-fit: cover;
+  rotate: -3deg;
+}
+
+.frame .element-24 {
+  position: absolute;
+  width: 257px;
+  height: 493px;
+  top: 6414px;
+  left: 2014px;
+  object-fit: cover;
+  rotate: 10deg;
+}
+
+.frame .group-6 {
+  position: absolute;
+  width: 778px;
+  height: 406px;
+  top: 5918px;
+  left: 1283px;
+}
+
+.frame .overlap-8 {
+  position: relative;
+  width: 776px;
+  height: 406px;
+}
+
+.frame .text-wrapper-16 {
+  width: 518px;
+  top: 214px;
+  left: 143px;
+  font-size: 18px;
+  text-align: center;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.frame .element-25 {
+  position: absolute;
+  width: 538px;
+  height: 277px;
+  top: 17px;
+  left: 135px;
+  object-fit: cover;
+}
+
+.frame .element-26 {
+  position: absolute;
+  width: 776px;
+  height: 399px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .view-6 {
+  position: absolute;
+  width: 1066px;
+  height: 1158px;
+  top: 4385px;
+  left: 1160px;
+}
+
+.frame .overlap-9 {
+  position: absolute;
+  width: 1054px;
+  height: 745px;
+  top: 0;
+  left: 0;
+}
+
+.frame .overlap-10 {
+  position: absolute;
+  width: 936px;
+  height: 745px;
+  top: 0;
+  left: 0;
+}
+
+.frame .element-27 {
+  position: absolute;
+  width: 308px;
+  height: 308px;
+  top: 437px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .element-28 {
+  position: absolute;
+  width: 882px;
+  height: 441px;
+  top: 0;
+  left: 54px;
+  object-fit: cover;
+}
+
+.frame .element-29 {
+  position: absolute;
+  width: 265px;
+  height: 265px;
+  top: 459px;
+  left: 399px;
+  object-fit: cover;
+}
+
+.frame .element-30 {
+  position: absolute;
+  width: 283px;
+  height: 283px;
+  top: 441px;
+  left: 771px;
+  object-fit: cover;
+}
+
+.frame .element-31 {
+  position: absolute;
+  width: 252px;
+  height: 252px;
+  top: 861px;
+  left: 788px;
+  object-fit: cover;
+}
+
+.frame .element-32 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 833px;
+  left: 407px;
+  object-fit: cover;
+}
+
+.frame .element-33 {
+  position: absolute;
+  width: 268px;
+  height: 268px;
+  top: 845px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-17 {
+  width: 117px;
+  top: 745px;
+  left: 94px;
+  position: absolute;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-18 {
+  position: absolute;
+  width: 116px;
+  top: 745px;
+  left: 495px;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-19 {
+  width: 96px;
+  top: 745px;
+  left: 881px;
+  position: absolute;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-20 {
+  width: 160px;
+  top: 1121px;
+  left: 851px;
+  position: absolute;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-21 {
+  position: absolute;
+  width: 128px;
+  top: 1121px;
+  left: 494px;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-22 {
+  width: 96px;
+  top: 1121px;
+  left: 106px;
+  position: absolute;
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 34px;
+  white-space: nowrap;
+}
+
+.frame .element-34 {
+  position: absolute;
+  width: 1920px;
+  height: 676px;
+  top: 4089px;
+  left: 727px;
+  object-fit: cover;
+}
+
+.frame .view-7 {
+  position: absolute;
+  width: 1168px;
+  height: 781px;
+  top: 3308px;
+  left: 1083px;
+}
+
+.frame .overlap-11 {
+  position: relative;
+  width: 1166px;
+  height: 781px;
+}
+
+.frame .text-wrapper-23 {
+  width: 436px;
+  top: 395px;
+  left: 259px;
+  font-size: 16px;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.frame .element-35 {
+  position: absolute;
+  width: 536px;
+  height: 277px;
+  top: 202px;
+  left: 177px;
+  object-fit: cover;
+}
+
+.frame .element-36 {
+  position: absolute;
+  width: 296px;
+  height: 568px;
+  top: 79px;
+  left: 895px;
+  object-fit: cover;
+  rotate: 10deg;
+}
+
+.frame .element-37 {
+  position: absolute;
+  width: 718px;
+  height: 492px;
+  top: 160px;
+  left: 62px;
+  object-fit: cover;
+  rotate: 210deg;
+}
+
+.frame .view-8 {
+  position: absolute;
+  width: 1173px;
+  height: 735px;
+  top: 2745px;
+  left: 1104px;
+}
+
+.frame .overlap-12 {
+  position: relative;
+  width: 1171px;
+  height: 735px;
+}
+
+.frame .text-wrapper-24 {
+  width: 415px;
+  top: 334px;
+  left: 484px;
+  font-size: 16px;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.frame .element-38 {
+  position: absolute;
+  width: 616px;
+  height: 317px;
+  top: 166px;
+  left: 484px;
+  object-fit: cover;
+}
+
+.frame .element-39 {
+  position: absolute;
+  width: 763px;
+  height: 535px;
+  top: 112px;
+  left: 347px;
+  object-fit: cover;
+  rotate: 22deg;
+}
+
+.frame .element-40 {
+  position: absolute;
+  width: 305px;
+  height: 591px;
+  top: 147px;
+  left: 0;
+  object-fit: cover;
+  rotate: -6deg;
+}
+.frame .element-41 {
+  position: absolute;
+  width: 1226px;
+  height: 706px;
+  top: 2251px;
+  left: 1135px;
+  object-fit: cover;
+}
+
+.frame .element-42 {
+  position: absolute;
+  width: 1917px;
+  height: 1226px;
+  top: 1108px;
+  left: 730px;
+  object-fit: cover;
+}
+
+.frame .element-43 {
+  width: 575px;
+  top: 1333px;
+  left: 1591px;
+  font-size: 16px;
+  position: absolute;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.frame .element-44 {
+  position: absolute;
+  width: 882px;
+  height: 410px;
+  top: 1234px;
+  left: 857px;
+  object-fit: cover;
+}
+
+.frame .element-45 {
+  width: 146px;
+  height: 1543px;
+  top: 0;
+  left: 797px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .element-46 {
+  width: 146px;
+  height: 1543px;
+  top: 0;
+  left: 2437px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .ellipse-14 {
+  position: absolute;
+  width: 260px;
+  height: 260px;
+  top: 11450px;
+  left: 597px;
+  background-color: #81689f99;
+  border-radius: 130px;
+}
+
+.frame .ellipse-15 {
+  position: absolute;
+  width: 162px;
+  height: 162px;
+  top: 11559px;
+  left: 776px;
+  background-color: #81689f99;
+  border-radius: 81px;
+}
+
+.frame .ellipse-16 {
+  position: absolute;
+  width: 104px;
+  height: 104px;
+  top: 10586px;
+  left: 815px;
+  background-color: #81689f99;
+  border-radius: 52px;
+}
+
+.frame .ellipse-17 {
+  position: absolute;
+  width: 162px;
+  height: 162px;
+  top: 10705px;
+  left: 2561px;
+  background-color: #81689f99;
+  border-radius: 81px;
+}
+
+.frame .ellipse-18 {
+  position: absolute;
+  width: 92px;
+  height: 92px;
+  top: 9079px;
+  left: 2253px;
+  background-color: #f9d3e4b2;
+  border-radius: 46px;
+}
+
+.frame .ellipse-19 {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 8871px;
+  left: 2391px;
+  background-color: #f9d3e4b2;
+  border-radius: 29px;
+}
+
+.frame .ellipse-20 {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 8494px;
+  left: 1398px;
+  background-color: #f9d3e4b2;
+  border-radius: 29px;
+}
+
+.frame .ellipse-21 {
+  position: absolute;
+  width: 132px;
+  height: 132px;
+  top: 9098px;
+  left: 2317px;
+  background-color: #f9d3e4b2;
+  border-radius: 66px;
+}
+
+.frame .ellipse-22 {
+  position: absolute;
+  width: 148px;
+  height: 148px;
+  top: 9266px;
+  left: 621px;
+  background-color: #f9d3e4;
+  border-radius: 74px;
+}
+
+.frame .element-48 {
+  position: absolute;
+  width: 562px;
+  height: 269px;
+  top: 843px;
+  left: 1811px;
+  object-fit: cover;
+  rotate: -27deg;
+}
+
+.frame .element-49 {
+  width: 716px;
+  height: 406px;
+  top: 970px;
+  left: 972px;
+  position: absolute;
+  object-fit: cover;
+  rotate: 12deg;
+}
+
+.frame .element-50 {
+  width: 790px;
+  height: 521px;
+  top: 864px;
+  left: 720px;
+  position: absolute;
+  object-fit: cover;
+  rotate: -25deg;
+}
+.frame .element-47 {
+  position: absolute;
+  width: 1923px;
+  height: 1029px;
+  top: -1px;
+  left: 726px;
+  object-fit: cover;
+}
+.frame .element-51 {
+  position: absolute;
+  width: 466px;
+  height: 465px;
+  top: 5755px;
+  left: 2109px;
+  object-fit: cover;
+  rotate: 431deg;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 92px;
+  height: 137px;
+  top: 11172px;
+  left: 943px;
+  background-color: #dec3d0ad;
+  border-radius: 4px;
+  transform: rotate(-17.73deg);
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 92px;
+  height: 137px;
+  top: 11776px;
+  left: 1150px;
+  background-color: #dec3d0ad;
+  border-radius: 4px;
+  transform: rotate(-63.7deg);
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 55px;
+  height: 81px;
+  top: 11729px;
+  left: 1233px;
+  background-color: #dec3d0ad;
+  border-radius: 4px;
+  transform: rotate(-27.97deg);
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 92px;
+  height: 137px;
+  top: 11935px;
+  left: 2079px;
+  background-color: #dec3d0ad;
+  border-radius: 4px;
+  transform: rotate(36.67deg);
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  width: 147px;
+  height: 219px;
+  top: 10965px;
+  left: 723px;
+  background-color: #dec3d0ad;
+  border-radius: 4px;
+  transform: rotate(36.67deg);
+}
+
+.frame .rectangle-7 {
+  position: absolute;
+  width: 48px;
+  height: 72px;
+  top: 11132px;
+  left: 1057px;
+  background-color: #dec3d0ad;
+  border-radius: 6px;
+  transform: rotate(22.05deg);
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  width: 48px;
+  height: 72px;
+  top: 11924px;
+  left: 2256px;
+  background-color: #dec3d0ad;
+  border-radius: 6px;
+  transform: rotate(-4.36deg);
+}
+
+.frame .element-52 {
+  position: absolute;
+  width: 276px;
+  height: 285px;
+  top: 5851px;
+  left: 972px;
+  object-fit: cover;
+  rotate: -20deg;
+}
+
+.frame .element-53 {
+  position: absolute;
+  width: 201px;
+  height: 202px;
+  top: 5768px;
+  left: 1794px;
+  object-fit: cover;
+  rotate: 30deg;
+}
+
+.frame .element-54 {
+  position: absolute;
+  width: 251px;
+  height: 251px;
+  top: 10811px;
+  left: 986px;
+  object-fit: cover;
+}
